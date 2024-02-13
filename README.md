@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janek
 - 👀 I’m interested in computers and matrial arts
 - 🌱 I’m currently learning frontend
-- 📫 [Contact website] (janek.000.pe)
+- 📫 [Contact website](janek.000.pe)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love cats
 
