@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend
 - 📫 [Contact website](janek.000.pe)
 - 😄 Pronouns: he/him
-- ⚡ Fact: i love cats
+- 😺 I love cats
 
 <!---
 01001010anek/01001010anek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
