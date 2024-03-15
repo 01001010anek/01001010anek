@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Janek
 - 👀 I’m interested in computers and matrial arts
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning web development
 - 📫 [Website](janek.000.pe)
-- 😄 Pronouns: he/him
+- 🧑‍💻 he/him
 - 😺 I love cats
 
 <!---
