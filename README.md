@@ -4,4 +4,5 @@
 - 🧑‍💻 he/him
 - 😺 I love cats <br>
 Here's random joke for you: <br>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> <br>
+![Visitor Count](https://profile-counter.glitch.me/01001010anek/count.svg)
