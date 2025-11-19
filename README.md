@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Janek, freelancer developer</div>  
+### <div align="center">I'm Janek, hobbyist developer</div>  
   
 
-- I’m interested in computers💻 and matrial arts👘  
+- I’m interested in computers and matrial arts 
   
 
-- 📫 [Here is my website](01001010anek.html-5.me)  
+- 📫 [Here is my website](https://01001010anek.pages.dev/)  
   
 
 - 🧑‍💻 he/him  
