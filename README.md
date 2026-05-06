@@ -1,12 +1,4 @@
-<div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhmaWt6aGo5ejl2d3g3eHphemVwNGRmazFsdjJ0cmFodWhqaGNrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/cwQCUhKible5mGrtMO/giphy.gif" align="center" height="" width="300" />
-</div>  
-  
-
 ### <div align="center">Hi, my name is Jan, I'm from Poland</div>  
-
-  
-
 [personal website in case sbd would want to contact me](https://01001010anek.pages.dev/) 
 <!--
 <div align="center"><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>  
